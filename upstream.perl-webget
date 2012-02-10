@@ -1,0 +1,2 @@
+tag1: signify
+  http://packages.debian.org/sid/signify pregexp:orig.tar.gz file:signify_1.14-1.tar.gz new: x:

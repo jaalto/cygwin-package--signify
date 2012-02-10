@@ -1,0 +1,9 @@
+sdesc: "Automatic, semi-random .signature rotator/generator"
+ldesc: "Generate random signature from a set of rules. Each rule section can
+be one of an unlimited umber of possibilities, each with its own
+weighting so those really cool uotes can appear more often than
+others. Sections can also be placed next o each other vertically to
+create columns. Each section can be formatted ndependently as
+left/right/center and top/bottom/vcenter."
+category: Mail Perl
+requires: perl

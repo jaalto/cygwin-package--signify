@@ -1,0 +1,67 @@
+signify
+------------------------------------------
+
+Automatic, semi-random .signature rotator/generator
+
+Generate random signature from a set of rules. Each rule section can
+be one of an unlimited umber of possibilities, each with its own
+weighting so those really cool uotes can appear more often than
+others. Sections can also be placed next o each other vertically to
+create columns. Each section can be formatted ndependently as
+left/right/center and top/bottom/vcenter.
+
+Runtime requirements:
+  perl
+
+Build requirements:
+  perl
+
+Canonical homepage:
+  http://signify.sf.net
+  http://packages.debian.org/signify
+
+Canonical download:
+  http://www.sf.net/projects/signify
+
+Version control repository:
+  https://sourceforge.net/projects/signify/develop
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Brian White <bcwhite@pobox.com>, <bcwhite@users.sf.net>
+  Bugs: https://sourceforge.net/tracker/?group_id=78651&atid=554022
+
+License:
+  Public Domain
+
+Language:
+  Perl
+
+------------------------------------------
+
+Build instructions:
+  unpack signify-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./signify*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 1.14-1 -----
+- Initial release 2012-02-10 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
