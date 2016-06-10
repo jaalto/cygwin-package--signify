@@ -4,10 +4,10 @@ signify
 Automatic, semi-random .signature rotator/generator
 
 Generate random signature from a set of rules. Each rule section can
-be one of an unlimited umber of possibilities, each with its own
-weighting so those really cool uotes can appear more often than
+be one of an unlimited number of possibilities, each with its own
+weighting so those really cool quotes can appear more often than
 others. Sections can also be placed next o each other vertically to
-create columns. Each section can be formatted ndependently as
+create columns. Each section can be formatted independently as
 left/right/center and top/bottom/vcenter.
 
 Runtime requirements:
